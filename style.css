@@ -149,7 +149,6 @@ font-weight: 600;
 
 .work__container{
   row-gap: 2rem;
-  position: relative;
   overflow: hidden;
   display: grid;
   gap: 2rem;
