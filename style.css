@@ -146,7 +146,15 @@ font-weight: 600;
     margin: 20px 10px;
 }
 
+.work__container bd-grid{
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-inline: auto;
+  padding-block: 2rem;
+  width: min(95%, 70rem);
 
+}
 .work__container{
   overflow: hidden;
   display: grid;
