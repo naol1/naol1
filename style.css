@@ -146,15 +146,15 @@ font-weight: 600;
     margin: 20px 10px;
 }
 
+
 .work__container{
+  row-gap: 2rem;
+  position: relative;
   overflow: hidden;
   display: grid;
-  gap: 2rem;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px 8px;
   left: 50px;
-  margin-inline: auto;
-  padding-block: 2rem;
-  width: min(95%, 70rem);
 
 }
 
@@ -164,7 +164,7 @@ font-weight: 600;
 
 }
 .work__img img{
-  transition: 3s;
+  transition: 1s;
   cursor: pointer;
 
 
@@ -177,7 +177,7 @@ font-weight: 600;
   position: absolute;
   bottom: 0;
   Left: 0;
-  display: grid;
+  display: flex;
   flex-direction: column;
 }
 .sci li
@@ -219,4 +219,3 @@ font-weight: 600;
   display: flex;
   font-size: 30px;
   font-style: italic;
-}
