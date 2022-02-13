@@ -149,7 +149,7 @@ font-weight: 600;
 .work__container bd-grid{
   display: grid;
   gap: 2rem;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   margin-inline: auto;
   padding-block: 2rem;
   width: min(95%, 70rem);
@@ -159,7 +159,7 @@ font-weight: 600;
   overflow: hidden;
   display: grid;
   gap: 2rem;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   left: 50px;
   margin-inline: auto;
   padding-block: 2rem;
