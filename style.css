@@ -162,7 +162,7 @@ font-weight: 600;
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
-  transition: width 2s, height 2s, transform 2s;
+ 
 }
 
 /* Create four equal columns that sits next to each other */
@@ -170,7 +170,7 @@ font-weight: 600;
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-  transition: width 2s, height 2s, transform 2s;
+   
    
 }
 
@@ -186,6 +186,7 @@ font-weight: 600;
   .column {
     flex: 50%;
     max-width: 50%;
+   
   }
 }
 
@@ -196,12 +197,12 @@ font-weight: 600;
     max-width: 100%;
   }
 }
-.work__img{
+.column{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
 
 }
-.work__img img{
+.column{
   transition: 1s;
   cursor: pointer;
 
