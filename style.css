@@ -213,7 +213,7 @@ font-weight: 600;
 }
 .sci
 {
-  position: fixed;
+  position: relative;
   bottom: 0;
   Left: 0;
   flex-direction: column;
