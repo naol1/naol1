@@ -207,7 +207,7 @@ font-weight: 600;
 
 
 }
-.work__img img:hover{
+.column img:hover{
   transform: scale(1.1);
 }
 .sci
