@@ -108,6 +108,7 @@ color : black;
 font-size: 3em;
 line-height: 1en;
 font-weight: 600;
+font-color:red;
 
 }
 .container .content .bannerText div h3
@@ -125,6 +126,8 @@ font-weight: 600;
   font-size: 3em;
   line-height: 1em;
   font-weight: 600;
+  font-color: red;
+  text-align: center;
 
 }
 .container .content .bannerText div p
