@@ -71,6 +71,8 @@ footer{
 .container .content
 {
      display: flex;
+     border: 3px #333 solid;
+     border-radius: 15px;
      justify-content: flex-start;
      align-items: center;
      
